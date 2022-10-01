@@ -41,3 +41,5 @@ The hard work of our Maintainers is the reason Hacktoberfest exists, so we want 
 - Add any label with the word “invalid” or “spam”
 
 *REWARD KITS ARE LIMITED; WE WILL REACH OUT TO QUALIFYING MAINTAINERS WHO ARE SELECTED TO RECEIVE A REWARD KIT AFTER HACKTOBERFEST ENDS.
+
+© GigaHertz Legacy -Spiderx
